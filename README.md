@@ -30,8 +30,19 @@ Best model weights are stored [here](https://www.kaggle.com/alenakokorina/braill
 
 ## How to use
 
-In order to use the system, you need to download the [weights](https://www.kaggle.com/alenakokorina/braille-weights?select=state_dict_model.pt), the [dictionary](https://www.kaggle.com/alenakokorina/braille-dict) and the script itself.
+In order to use the system, you need to download [weights](https://www.kaggle.com/alenakokorina/braille-weights?select=state_dict_model.pt), [dictionary](https://www.kaggle.com/alenakokorina/braille-dict) and the [script itself](https://github.com/alenakokorina24/Braille-translation/blob/main/translate.py).
 
+Command to run the script:
+```
+python3 translate.py <image file name>
+```
 
+**Example**
+
+Here you can see the output: a new image with drawn boxes and a file with translation.
+
+![Screenshot from 2021-08-17 17-54-22](https://user-images.githubusercontent.com/65346868/129714040-4aa6209c-a04a-4760-9434-9e9c380ef7b5.png)
+
+![Screenshot from 2021-08-17 18-04-32](https://user-images.githubusercontent.com/65346868/129715397-1f6f514d-3670-4dc7-aec1-7c818531d1d7.png)
 
 
