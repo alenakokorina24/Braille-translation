@@ -28,4 +28,10 @@ Best model weights are stored [here](https://www.kaggle.com/alenakokorina/braill
 ![Screenshot from 2021-08-05 20-02-11](https://user-images.githubusercontent.com/65346868/128354298-665687f0-619d-4120-bb9a-b80c1a711f58.png)
 > Object detection and classification results (on real sample).
 
+## How to use
+
+In order to use the system, you need to download the [weights](https://www.kaggle.com/alenakokorina/braille-weights?select=state_dict_model.pt), the [dictionary](https://www.kaggle.com/alenakokorina/braille-dict) and the script itself.
+
+
+
 
